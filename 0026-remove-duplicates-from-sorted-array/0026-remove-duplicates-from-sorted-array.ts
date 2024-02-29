@@ -4,16 +4,11 @@
 function removeDuplicates(nums: number[]): number {
     let count = 0;
     
-    let i = 1;
-    let compareNum = nums[0];
-    while(nums.length >= i) {
-        if(nums[i] === compareNum) {
-            nums.splice(i, 1);
-        } else {
-            compareNum = nums[i];
-            count++;
-            i++;
+    for(let i = 0; i < nums.length; i++) {
+        if(nums[i] !== nums[i + 1]) {
+            nums[count++] = nums[i];
         }
     }
+    
     return count;
 };
