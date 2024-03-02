@@ -5,13 +5,10 @@ function majorityElement(nums: number[]): number {
         else numsMap[num]++;
     });
     
-    console.log(numsMap);
+    let halfLength = Math.floor(nums.length / 2);
+    for (const [key, value] of Object.entries(numsMap)) {
+        if(+value > halfLength) return +key;
+    }
     
-    let maxNum = 0;
-    Object.keys(numsMap).forEach((key) => {
-        if(maxNum === 0) maxNum = +key;
-        else if(numsMap[key] > numsMap[maxNum]) maxNum = +key;
-    });
-    
-    return maxNum;
+    return 0;
 };
