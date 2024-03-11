@@ -1,31 +1,39 @@
 class RandomizedSet {
-    private randomizedSet;
+    private randomizedMap;
+    private list;
     
     constructor() {
-        this.randomizedSet = new Set();
+        this.randomizedMap = new Map();
+        this.list = [];
+    }
+    
+    search(val: number): boolean {
+        return this.randomizedMap.has(val);
     }
 
     insert(val: number): boolean {
-        if(!this.randomizedSet.has(val)) {
-            this.randomizedSet.add(val);
-            return true;
-        } else {
-            return false;
-        }
+        if(this.search(val)) return false;
+        
+        this.list.push(val);
+        this.randomizedMap.set(val, this.list.length - 1);
+        return true;
     }
 
     remove(val: number): boolean {
-        if(this.randomizedSet.has(val)) {
-            this.randomizedSet.delete(val);
-            return true;
-        } else {
-            return false;
-        }
+        if(!this.search(val)) return false;
+        
+        const idx = this.randomizedMap.get(val);
+        this.list[idx] = this.list[this.list.length - 1];
+        this.list.pop();
+        this.randomizedMap.set(this.list[idx], idx);
+        this.randomizedMap.delete(val);
+            
+        return true;
     }
 
     getRandom(): number {
-        const randomIndex = Math.floor(Math.random() * this.randomizedSet.size);
-        return +Array.from(this.randomizedSet)[randomIndex];
+        const randomIndex = Math.floor(Math.random() * this.list.length);
+        return this.list[randomIndex];
     }
 }
 
