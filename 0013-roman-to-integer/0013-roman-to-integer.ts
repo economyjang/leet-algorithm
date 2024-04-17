@@ -1,27 +1,25 @@
 function romanToInt(s: string): number {
-    let answer = [];
+    let answer = 0;
+    let prev = 0;
     
     const romanNumMap = {
-        'I' : 1,
-        'V' : 5,
-        'X' : 10,
-        'L' : 50,
-        'C' : 100,
-        'D' : 500,
+        'I' : 1, 'V' : 5,
+        'X' : 10, 'L' : 50,
+        'C' : 100, 'D' : 500,
         'M' : 1000
     };
     
     s.split('').forEach((char) => {
-        if(answer.length === 0) {
-            answer.push(romanNumMap[char]);
+        let number = romanNumMap[char];
+        
+        if (prev < number) {
+            answer += number - (prev * 2);
         } else {
-            if(answer[answer.length - 1] < romanNumMap[char]) {
-                answer[answer.length - 1] = romanNumMap[char] - answer[answer.length - 1];
-            } else {
-                answer.push(romanNumMap[char]);
-            }
+            answer += number;
         }
+        
+        prev = number;
     });
     
-    return answer.reduce((acc, cur) => acc + cur, 0);
+    return answer;
 };
