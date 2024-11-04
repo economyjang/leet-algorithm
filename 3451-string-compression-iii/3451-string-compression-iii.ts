@@ -1,5 +1,3 @@
-let tempCharArr = []
-
 function compressedString(word: string): string {
     let comp = ''
     let count = 1
