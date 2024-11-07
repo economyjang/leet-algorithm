@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 | [3451-string-compression-iii](https://github.com/economyjang/leet-algorithm/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
@@ -19,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/economyjang/leet-algorithm/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
