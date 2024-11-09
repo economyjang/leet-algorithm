@@ -23,5 +23,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
