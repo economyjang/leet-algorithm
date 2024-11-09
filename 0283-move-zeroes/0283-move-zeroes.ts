@@ -2,15 +2,13 @@
  Do not return anything, modify nums in-place instead.
  */
 function moveZeroes(nums: number[]): void {
-    let zeroArr = []
-    let i = 0
-    while(i < nums.length) {
-        if(nums[i] === 0) {
-            zeroArr.push(nums.splice(i, 1)[0])
-        } else {
-            i++
+    let left = 0
+    for(let right = 0; right < nums.length; right++) {
+        if(nums[right] !== 0) {
+            let temp = nums[left]
+            nums[left] = nums[right]
+            nums[right] = temp
+            left++
         }
     }
-
-    nums.push(...zeroArr)
 };
