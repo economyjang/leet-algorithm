@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/economyjang/leet-algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [3451-string-compression-iii](https://github.com/economyjang/leet-algorithm/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
@@ -44,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/economyjang/leet-algorithm/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/economyjang/leet-algorithm/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
