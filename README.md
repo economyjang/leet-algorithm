@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/economyjang/leet-algorithm/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/economyjang/leet-algorithm/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/economyjang/leet-algorithm/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
