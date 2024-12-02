@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/economyjang/leet-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/economyjang/leet-algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [3451-string-compression-iii](https://github.com/economyjang/leet-algorithm/tree/master/3451-string-compression-iii) |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/economyjang/leet-algorithm/tree/master/0070-climbing-stairs) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/economyjang/leet-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
