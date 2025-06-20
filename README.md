@@ -30,12 +30,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/economyjang/leet-algorithm/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/economyjang/leet-algorithm/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/economyjang/leet-algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -89,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/economyjang/leet-algorithm/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
