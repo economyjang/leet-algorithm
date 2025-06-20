@@ -29,11 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/economyjang/leet-algorithm/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/economyjang/leet-algorithm/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/economyjang/leet-algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/economyjang/leet-algorithm/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 ## Design
 |  |
