@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/economyjang/leet-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/economyjang/leet-algorithm/tree/master/2470-removing-stars-from-a-string) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/economyjang/leet-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/economyjang/leet-algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -59,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Stack
 |  |
