@@ -2,24 +2,32 @@ class Solution {
     public int characterReplacement(String s, int k) {
         int maxLength = 0;
 
-        Map<Character, Integer> charMap = new HashMap<>();
-        int left = 0;
+        Map<Character, Integer> map = new HashMap<>();
 
-        for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-            charMap.put(c, charMap.getOrDefault(c, 0) + 1);
+        int left = 0, right = 0;
 
-            int maxCharCount = Collections.max(charMap.values());
+        while(right < s.length()) {
+            char rightChar = s.charAt(right);
+            map.put(rightChar, map.getOrDefault(rightChar, 0) + 1);
+
+            int max = Collections.max(map.values());
             int windowSize = right - left + 1;
-            int otherCharCount = windowSize - maxCharCount;
+            int min = windowSize - max;
 
-            if (otherCharCount > k) {
+            while(min > k) {
                 char leftChar = s.charAt(left);
-                charMap.put(leftChar, charMap.get(leftChar) - 1);
-                left++;
+                if(map.containsKey(leftChar)) {
+                    map.put(leftChar, map.get(leftChar) - 1);
+                    left++;
+
+                    max = Collections.max(map.values());
+                    windowSize = right - left + 1;
+                    min = windowSize - max;
+                }
             }
 
             maxLength = Math.max(maxLength, right - left + 1);
+            right++;
         }
 
         return maxLength;
