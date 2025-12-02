@@ -3,14 +3,7 @@ class Solution:
         if len(s) <= 1:
             return True
 
-        strs: Deque = collections.deque()
+        s = s.lower()
+        s = re.sub('[^a-z0-9]', '', s)
 
-        for char in s:
-            if char.isalnum():
-                strs.append(char.lower())
-
-        while 1 < len(strs):
-            if strs.popleft() != strs.pop():
-                return False
-
-        return True
+        return s == s[::-1]
