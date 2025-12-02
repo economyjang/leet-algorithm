@@ -3,7 +3,8 @@ class Solution:
         if len(s) <= 1:
             return True
 
-        strs = deque()
+        strs: Deque = collections.deque()
+
         for char in s:
             if char.isalnum():
                 strs.append(char.lower())
