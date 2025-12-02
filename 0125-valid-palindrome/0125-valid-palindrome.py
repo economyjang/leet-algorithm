@@ -3,13 +3,13 @@ class Solution:
         if len(s) <= 1:
             return True
 
-        strs = []
+        strs = deque()
         for char in s:
             if char.isalnum():
                 strs.append(char.lower())
 
         while 1 < len(strs):
-            if strs.pop(0) != strs.pop():
+            if strs.popleft() != strs.pop():
                 return False
 
         return True
