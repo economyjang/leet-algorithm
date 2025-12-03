@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/economyjang/leet-algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/economyjang/leet-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/economyjang/leet-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/economyjang/leet-algorithm/tree/master/0739-daily-temperatures) |
+| [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
 | [1046-max-consecutive-ones-iii](https://github.com/economyjang/leet-algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/economyjang/leet-algorithm/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Stack
 |  |
@@ -114,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/economyjang/leet-algorithm/tree/master/1046-max-consecutive-ones-iii) |
+## Counting
+|  |
+| ------- |
+| [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 <!---LeetCode Topics End-->
