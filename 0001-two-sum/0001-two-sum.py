@@ -1,15 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        answer = []
+        if len(nums) == 2:
+            return [0, 1]
 
-        num_dict = {}
-        for idx, num in enumerate(nums):
-            diff = target - num
-            if diff not in num_dict:
-                num_dict[num] = idx
-            else:
-                answer.append(num_dict[diff])
-                answer.append(idx)
+        for i in range(len(nums)):
+            for j in range(i + 1, len(nums)):
+                if nums[i] + nums[j] == target:
+                    return [i, j]
 
-        return answer
+        return None
         
