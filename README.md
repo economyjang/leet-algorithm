@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/economyjang/leet-algorithm/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/economyjang/leet-algorithm/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/economyjang/leet-algorithm/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/economyjang/leet-algorithm/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/economyjang/leet-algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/economyjang/leet-algorithm/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
