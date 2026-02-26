@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/economyjang/leet-algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/economyjang/leet-algorithm/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/economyjang/leet-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/economyjang/leet-algorithm/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/economyjang/leet-algorithm/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/economyjang/leet-algorithm/tree/master/2470-removing-stars-from-a-string) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/economyjang/leet-algorithm/tree/master/0225-implement-stack-using-queues) |
 ## Trie
 |  |
 | ------- |
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/economyjang/leet-algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/economyjang/leet-algorithm/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/economyjang/leet-algorithm/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
