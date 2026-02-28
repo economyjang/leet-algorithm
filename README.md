@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/economyjang/leet-algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/economyjang/leet-algorithm/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/economyjang/leet-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/economyjang/leet-algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/economyjang/leet-algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/economyjang/leet-algorithm/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -167,4 +170,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/economyjang/leet-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/economyjang/leet-algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
