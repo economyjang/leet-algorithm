@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/economyjang/leet-algorithm/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/economyjang/leet-algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/economyjang/leet-algorithm/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/economyjang/leet-algorithm/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Stack
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/economyjang/leet-algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/economyjang/leet-algorithm/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
 ## Trie
 |  |
 | ------- |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/economyjang/leet-algorithm/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/economyjang/leet-algorithm/tree/master/0641-design-circular-deque) |
+| [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -175,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/economyjang/leet-algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/economyjang/leet-algorithm/tree/master/0641-design-circular-deque) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
