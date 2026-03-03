@@ -1,8 +1,8 @@
 class ListNode:
-    def __init__(self, key = None, value = None, next = None):
+    def __init__(self, key = None, value = None):
         self.key = key
         self.value = value
-        self.next = next
+        self.next = None
 
 class MyHashMap:
     def __init__(self):
@@ -41,7 +41,7 @@ class MyHashMap:
 
     def remove(self, key: int) -> None:
         index = self.hash(key)
-        if self.table[index] is None:
+        if self.table[index].value is None:
             return
 
         p = self.table[index]
