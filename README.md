@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/economyjang/leet-algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0771-jewels-and-stones](https://github.com/economyjang/leet-algorithm/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/economyjang/leet-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/economyjang/leet-algorithm/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Stack
