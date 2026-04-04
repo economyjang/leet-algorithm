@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/economyjang/leet-algorithm/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/economyjang/leet-algorithm/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/economyjang/leet-algorithm/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/economyjang/leet-algorithm/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/economyjang/leet-algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/economyjang/leet-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -231,4 +232,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/economyjang/leet-algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/economyjang/leet-algorithm/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
