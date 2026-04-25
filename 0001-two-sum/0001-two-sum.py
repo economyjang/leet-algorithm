@@ -5,7 +5,6 @@ class Solution:
         for i, num in enumerate(nums):
             if target - num in nums_dict:
                 return [nums_dict[target - num], i]
-            else:
-                nums_dict[num] = i
+            nums_dict[num] = i
 
         return []
