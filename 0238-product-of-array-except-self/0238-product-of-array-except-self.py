@@ -1,23 +1,20 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        n = len(nums)
-        prefix_sum = [0] * n
-        suffix_sum = [0] * n
-        result = [0] * n
+        # set prefix list
+        prefixes = collections.deque()
+        prefix = 1
+        for i in range(0, len(nums)):
+            prefixes.append(prefix)
+            prefix = prefix * nums[i]
 
-        p = 1
-        for i in range(n):
-            p *= nums[i]
-            prefix_sum[i] = p
+        # set suffix list
+        suffixes = collections.deque()
+        suffix = 1
+        for i in range(len(nums) - 1, -1, -1):
+            suffixes.appendleft(suffix)
+            suffix = suffix * nums[i]
 
-        p = 1
-        for i in range(n - 1, -1, -1):
-            p *= nums[i]
-            suffix_sum[i] = p
+        # multiply prefix list and suffix
+        output = [prefixes[i] * suffixes[i] for i in range(len(nums))]
 
-        for i in range(n):
-            left = prefix_sum[i - 1] if i > 0 else 1
-            right = suffix_sum[i + 1] if i < n - 1 else 1
-            result[i] = left * right
-
-        return result
+        return output
