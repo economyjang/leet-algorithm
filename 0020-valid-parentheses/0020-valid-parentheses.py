@@ -2,9 +2,9 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         table = {
-            ')' : '(',
-            '}' : '{',
-            ']' : '['
+            ")" : "(",
+            "]" : "[",
+            "}" : "{"
         }
 
         for char in s:
