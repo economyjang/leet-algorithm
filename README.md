@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/economyjang/leet-algorithm/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/economyjang/leet-algorithm/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/economyjang/leet-algorithm/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/economyjang/leet-algorithm/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/economyjang/leet-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/economyjang/leet-algorithm/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/economyjang/leet-algorithm/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/economyjang/leet-algorithm/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/economyjang/leet-algorithm/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/economyjang/leet-algorithm/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/economyjang/leet-algorithm/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
