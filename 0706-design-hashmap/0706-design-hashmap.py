@@ -1,5 +1,5 @@
 class ListNode:
-    def __init__(self, key = None, value = None):
+    def __init__(self, key=None,  value=None):
         self.key = key
         self.value = value
         self.next = None
@@ -10,8 +10,7 @@ class MyHashMap:
         self.table = collections.defaultdict(ListNode)
 
     def put(self, key: int, value: int) -> None:
-        index = self.hash(key)
-
+        index = key % self.size
         if self.table[index].value is None:
             self.table[index] = ListNode(key, value)
             return
@@ -27,8 +26,7 @@ class MyHashMap:
         p.next = ListNode(key, value)
 
     def get(self, key: int) -> int:
-        index = self.hash(key)
-
+        index = key % self.size
         if self.table[index].value is None:
             return -1
 
@@ -40,7 +38,7 @@ class MyHashMap:
         return -1
 
     def remove(self, key: int) -> None:
-        index = self.hash(key)
+        index = key % self.size
         if self.table[index].value is None:
             return
 
@@ -48,13 +46,18 @@ class MyHashMap:
         if p.key == key:
             self.table[index] = ListNode() if p.next is None else p.next
             return
-        
+
         prev = p
         while p:
             if p.key == key:
                 prev.next = p.next
                 return
             prev, p = p, p.next
+        
 
-    def hash(self, key: int):
-        return key % self.size
+
+# Your MyHashMap object will be instantiated and called as such:
+# obj = MyHashMap()
+# obj.put(key,value)
+# param_2 = obj.get(key)
+# obj.remove(key)
