@@ -4,7 +4,7 @@ class Solution:
             if i < 0 or i >= len(grid) or j < 0 or j >= len(grid[0]) or grid[i][j] != '1':
                 return
 
-            grid[i][j] = 0
+            grid[i][j] = '0'
 
             # 상, 하, 좌, 우
             dfs(i - 1, j)
