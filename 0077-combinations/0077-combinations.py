@@ -2,7 +2,7 @@ class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         results = []
 
-        def dfs(elements, start: int, k: int):
+        def dfs(elements, start, k):
             if k == 0:
                 results.append(elements[:])
                 return
