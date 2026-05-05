@@ -235,10 +235,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
@@ -259,4 +261,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/economyjang/leet-algorithm/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
