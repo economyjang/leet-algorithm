@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/economyjang/leet-algorithm/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/economyjang/leet-algorithm/tree/master/0743-network-delay-time) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
 | [0743-network-delay-time](https://github.com/economyjang/leet-algorithm/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
@@ -285,12 +287,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/economyjang/leet-algorithm/tree/master/0687-longest-univalue-path) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/economyjang/leet-algorithm/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
