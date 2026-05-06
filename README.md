@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/economyjang/leet-algorithm/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -283,8 +284,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
