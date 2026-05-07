@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/economyjang/leet-algorithm/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/economyjang/leet-algorithm/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/economyjang/leet-algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/economyjang/leet-algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/economyjang/leet-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/economyjang/leet-algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/economyjang/leet-algorithm/tree/master/0641-design-circular-deque) |
 | [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/economyjang/leet-algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/economyjang/leet-algorithm/tree/master/0687-longest-univalue-path) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/economyjang/leet-algorithm/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/economyjang/leet-algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0743-network-delay-time](https://github.com/economyjang/leet-algorithm/tree/master/0743-network-delay-time) |
 ## Union-Find
@@ -290,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/economyjang/leet-algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/economyjang/leet-algorithm/tree/master/0687-longest-univalue-path) |
@@ -298,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/economyjang/leet-algorithm/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/economyjang/leet-algorithm/tree/master/0687-longest-univalue-path) |
