@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/economyjang/leet-algorithm/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/economyjang/leet-algorithm/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/economyjang/leet-algorithm/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/economyjang/leet-algorithm/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/economyjang/leet-algorithm/tree/master/0819-most-common-word) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1046-max-consecutive-ones-iii](https://github.com/economyjang/leet-algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/economyjang/leet-algorithm/tree/master/1833-find-the-highest-altitude) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/economyjang/leet-algorithm/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/economyjang/leet-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -258,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/economyjang/leet-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/economyjang/leet-algorithm/tree/master/0743-network-delay-time) |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -267,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/economyjang/leet-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,4 +375,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/economyjang/leet-algorithm/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/economyjang/leet-algorithm/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/economyjang/leet-algorithm/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
