@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/economyjang/leet-algorithm/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/economyjang/leet-algorithm/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/economyjang/leet-algorithm/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/economyjang/leet-algorithm/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/economyjang/leet-algorithm/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/economyjang/leet-algorithm/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/economyjang/leet-algorithm/tree/master/0316-remove-duplicate-letters) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/economyjang/leet-algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/economyjang/leet-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/economyjang/leet-algorithm/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/economyjang/leet-algorithm/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/economyjang/leet-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/economyjang/leet-algorithm/tree/master/0238-product-of-array-except-self) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/economyjang/leet-algorithm/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/economyjang/leet-algorithm/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/economyjang/leet-algorithm/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/economyjang/leet-algorithm/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/economyjang/leet-algorithm/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/economyjang/leet-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
