@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/economyjang/leet-algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/economyjang/leet-algorithm/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/economyjang/leet-algorithm/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/economyjang/leet-algorithm/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/economyjang/leet-algorithm/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/economyjang/leet-algorithm/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/economyjang/leet-algorithm/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/economyjang/leet-algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0706-design-hashmap](https://github.com/economyjang/leet-algorithm/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/economyjang/leet-algorithm/tree/master/0771-jewels-and-stones) |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/economyjang/leet-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/economyjang/leet-algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
@@ -200,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/economyjang/leet-algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/economyjang/leet-algorithm/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/economyjang/leet-algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
