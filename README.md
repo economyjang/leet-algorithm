@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0336-palindrome-pairs](https://github.com/economyjang/leet-algorithm/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0393-utf-8-validation](https://github.com/economyjang/leet-algorithm/tree/master/0393-utf-8-validation) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/economyjang/leet-algorithm/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/economyjang/leet-algorithm/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/economyjang/leet-algorithm/tree/master/0371-sum-of-two-integers) |
+| [0393-utf-8-validation](https://github.com/economyjang/leet-algorithm/tree/master/0393-utf-8-validation) |
 | [0461-hamming-distance](https://github.com/economyjang/leet-algorithm/tree/master/0461-hamming-distance) |
 ## Binary Search
 |  |
