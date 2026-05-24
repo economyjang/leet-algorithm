@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0393-utf-8-validation](https://github.com/economyjang/leet-algorithm/tree/master/0393-utf-8-validation) |
+| [0406-queue-reconstruction-by-height](https://github.com/economyjang/leet-algorithm/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/economyjang/leet-algorithm/tree/master/0622-design-circular-queue) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/economyjang/leet-algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/economyjang/leet-algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/economyjang/leet-algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/economyjang/leet-algorithm/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/economyjang/leet-algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/economyjang/leet-algorithm/tree/master/0561-array-partition) |
 | [0937-reorder-data-in-log-files](https://github.com/economyjang/leet-algorithm/tree/master/0937-reorder-data-in-log-files) |
@@ -402,4 +404,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/economyjang/leet-algorithm/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/economyjang/leet-algorithm/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/economyjang/leet-algorithm/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
